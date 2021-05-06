@@ -1,4 +1,4 @@
-
+# Implementing the FizzBuzz algorithm
 
 def multiples(numbers):
  
